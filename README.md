@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on <strong><mark>Python Projects</mark></strong>
 - 📫 How to reach me <a href="https://t.co/lBDIknRZHv">Let's Connect</a>
 - 😄 Pronouns:he/him
+
+- !Languages and Tools
+
   
 [![](https://visitcount.itsvg.in/api?id=kaushall007&label=Profile%20Views&color=9&icon=1&pretty=true)](https://visitcount.itsvg.in)
 <!---
