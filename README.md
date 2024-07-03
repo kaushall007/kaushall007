@@ -6,7 +6,7 @@
 - 😄 Pronouns:he/him
 
  <h1>Languages and Tools</h1>
-<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000">
+<img src="https://img.icons8.com/?size=50&id=20909&format=png&color=000000">
   
 [![](https://visitcount.itsvg.in/api?id=kaushall007&label=Profile%20Views&color=9&icon=1&pretty=true)](https://visitcount.itsvg.in)
 <!---
