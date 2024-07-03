@@ -6,7 +6,6 @@
 - 😄 Pronouns:he/him
 
  <h1>Languages and Tools</h1>
- Here's how you can display these images in a single line using Markdown:
 
 <img src="https://img.icons8.com/?size=50&id=20909&format=png&color=000000"><img src="https://img.icons8.com/?size=50&id=21278&format=png&color=000000"><img src="https://img.icons8.com/?size=50&id=108784&format=png&color=000000"><img src="https://img.icons8.com/?size=50&id=UFXRpPFebwa2&format=png&color=000000"><img src="https://img.icons8.com/?size=50&id=WHRLQdbEXQ16&format=png&color=000000"><img src="https://img.icons8.com/?size=50&id=13679&format=png&color=000000"><img src="https://img.icons8.com/?size=50&id=13441&format=png&color=000000"><img src="https://img.icons8.com/?size=50&id=iWw83PVcBpLw&format=png&color=000000"><img src="https://img.icons8.com/?size=50&id=20906&format=png&color=000000"><img src="https://img.icons8.com/?size=50&id=qYfwpsRXEcpc&format=png&color=000000"><img src="https://img.icons8.com/?size=50&id=69132&format=png&color=000000">
   
