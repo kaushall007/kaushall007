@@ -12,8 +12,6 @@ A passionate Python developer from India
 
 - 👯 I’m looking to collaborate on **Python Project**
 
-- 👨‍💻 All of my projects are available at [kaushall007.github.io/portfolio/](kaushall007.github.io/portfolio/)
-
 - 💬 Ask me about **Python, Flask, Django**
 
 - 📫 How to reach me **itskaushal11@gmail.com**
