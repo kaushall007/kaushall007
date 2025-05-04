@@ -6,7 +6,7 @@ A passionate Python developer from India
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaushall007" alt="kaushall007" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/07_kaushall" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/07_kaushall?logo=twitter&style=for-the-badge" alt="https://twitter.com/07_kaushall" /></a> </p>
+
 
 - 🌱 I’m currently learning **Data Analytics, Django, Flask**
 
